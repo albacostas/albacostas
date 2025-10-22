@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📚 Estudiante de **Ingeniería Informática** con interés en la tecnología.
+
 💡 Me caracteriza una actitud proactiva, orientada al aprendizaje continuo y a la creación de proyectos que fortalezcan mis conocimientos técnicos y profesionales.
