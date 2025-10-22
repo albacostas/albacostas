@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola!
 
 <!--
 **albacostas/albacostas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📚 Estudiante de **Ingeniería Informática** con interés en la tecnología.
+💡 Me caracteriza una actitud proactiva, orientada al aprendizaje continuo y a la creación de proyectos que fortalezcan mis conocimientos técnicos y profesionales.
